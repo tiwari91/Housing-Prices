@@ -1,6 +1,7 @@
 # House Prices: Advanced Regression Techniques 
 
-Team: cpsc483team 2 [ https://www.kaggle.com/c/house-prices-advanced-regression-techniques/leaderboard ]
+Team: cpsc483team 2 [ https://www.kaggle.com/c/house-prices-advanced-regression-techniques/leaderboard ]. 
+
 In this project we signed up for the Kaggle competition. The aim was to complete the competition and submit the code for rank. 
 Then improve the code for better analysis to improve the rank. The competition we entered was “House Prices: Advanced Regression 
 Techniques”. The competition details can be found on site: https://www.kaggle.com/c/house-prices-advanced-regression-techniques. 
