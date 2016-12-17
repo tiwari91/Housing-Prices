@@ -1,6 +1,6 @@
-# House Prices: Advanced Regression Techniques
+# House Prices: Advanced Regression Techniques 
 
-
+Team: cpsc483team 2 [ https://www.kaggle.com/c/house-prices-advanced-regression-techniques/leaderboard ]
 In this project we signed up for the Kaggle competition. The aim was to complete the competition and submit the code for rank. 
 Then improve the code for better analysis to improve the rank. The competition we entered was “House Prices: Advanced Regression 
 Techniques”. The competition details can be found on site: https://www.kaggle.com/c/house-prices-advanced-regression-techniques. 
@@ -13,7 +13,6 @@ Analysis & Prediction:
 Prediction of the sale price of the houses
 Algorithms: The following algorithms were implemented in the project:
 Advanced Regression Techniques like LASSO, XgBoost, PCA etc.
-
 
 The system requirement for Python SKLearn have no any minimal specification. Since data analysis is a computationally intensive task—the better your hardware, the better your experience. Also, the memory should be enough to handle big data sets.
 
