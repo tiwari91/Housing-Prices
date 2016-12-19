@@ -10,8 +10,7 @@ We implemented different advanced regression algorithms and compared the results
 Following are the details for the project implementations:
 Dataset: Provided by Kaggle and in known as Ames Housing Dataset
 Data Mining Tool: Python scikit library.
-Analysis & Prediction:
-Prediction of the sale price of the houses
+Analysis & Prediction: Prediction of the sale price of the houses
 Algorithms: The following algorithms were implemented in the project:
 Advanced Regression Techniques like LASSO, XgBoost, PCA etc.
 
